@@ -37,7 +37,7 @@ PS：本教程不仅仅针对云函数，你也可以托管在自己的服务器
     - 执行超时时间：900 秒
     - 请求多并发：2 并发
 - 日志配置 -> 日志投递：启用（可以选择不开，开的话一个月应该几分钱）
-- 函数代码：本地上传zip包（[点我下载 ZIP 包](https://github.com/Ice-Hazymoon/openai-scf-proxy/releases/download/0.0.3/openai-proxy.zip)）
+- 函数代码：本地上传zip包（[点我下载 ZIP 包](https://github.com/donturman/gemini-pro-proxy/raw/main/gemini-pro-proxy.zip)）
 - 触发器配置（这里可能要创建一个新的触发器）：
     - 默认触发器
     - 触发别名/版本：默认流量
